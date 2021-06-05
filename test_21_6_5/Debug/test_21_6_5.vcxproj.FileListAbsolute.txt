@@ -1,0 +1,2 @@
+C:\Users\38601\Desktop\C语言初阶课件\c\test_21_6_5\Debug\test_21_6_5.exe
+C:\Users\38601\Desktop\C语言初阶课件\c\test_21_6_5\Debug\test_21_6_5.pdb
